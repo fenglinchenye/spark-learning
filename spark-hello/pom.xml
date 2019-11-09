@@ -98,6 +98,14 @@
       <artifactId>hadoop-hdfs</artifactId>
       <version>${hadoop.version}</version>
     </dependency>
+
+<!--    mysql-java-connector-->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>5.1.40</version>
+    </dependency>
+
   </dependencies>
 
   <build>

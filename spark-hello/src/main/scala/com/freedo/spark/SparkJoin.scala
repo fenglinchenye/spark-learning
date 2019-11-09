@@ -2,6 +2,10 @@ package com.freedo.spark
 
 import org.apache.spark.sql.SparkSession
 
+/**
+  * Join 查询
+  * 数据来源：https://grouplens.org/datasets/movielens/
+  */
 object SparkJoin {
 
   def main(args: Array[String]): Unit = {
