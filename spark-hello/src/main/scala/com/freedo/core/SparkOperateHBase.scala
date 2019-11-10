@@ -1,4 +1,4 @@
-package com.freedo.spark
+package com.freedo.core
 
 import org.apache.hadoop.hbase.HBaseConfiguration
 import org.apache.hadoop.hbase.client.Put

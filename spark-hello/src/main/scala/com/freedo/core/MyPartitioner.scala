@@ -1,4 +1,4 @@
-package com.freedo.spark
+package com.freedo.core
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.Partitioner

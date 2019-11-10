@@ -1,4 +1,4 @@
-package com.freedo.spark
+package com.freedo.core
 
 /**
   * 类需要排序的 则需要继承 Ordered 覆盖compare方法
